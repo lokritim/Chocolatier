@@ -1,0 +1,35 @@
+.logo {
+    color:rgb(176, 25, 25);
+    font-family: 'Sacramento', cursive;
+    font-size : 3rem;
+}
+
+.cart-icon {
+    width: 2rem;
+    height:2rem;
+  } 
+  .cart-div {
+    position: relative;
+  }
+  
+  .cart-number {
+    position: absolute;
+    top: 20%;
+    right: 35%;
+    color: rgb(234, 17, 5);
+    
+  }
+.navbar{
+    border-bottom: 0.2rem solid rgb(176, 25, 25);
+}
+.navbar li {
+    font-family: 'Parisienne', cursive;
+    font-size: 1.5rem;
+}
+
+.navbar-nav .nav-link.active,.nav-link:hover, .navbar-nav .show>.nav-link {
+  color: rgb(176, 25, 25);
+  }
+
+
+

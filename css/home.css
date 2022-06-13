@@ -1,0 +1,78 @@
+.carousel-item > img{
+    max-height: 35rem !important;
+}
+.carousel-caption p , .carousel-caption h5 {
+    color: white;
+}
+
+.btn-quick-look{
+    background-color: rgb(243, 235, 222);
+    color: black;
+    border:0;
+}
+
+.btn-quick-look:hover{
+    background-color: rgb(243, 235, 222);
+    color: rgb(220, 152, 25);
+    border:0;
+    border-radius: 5px;
+}
+
+.btn-add-to-carte{
+    background-color: rgb(220, 152, 25);
+    color: rgb(255, 245, 245);
+    border:0;
+    border-radius: 5px;
+}
+.btn-add-to-carte:hover{
+    background-color: rgb(243, 170, 69);
+    color: rgb(21, 20, 20);
+    border:0;
+    
+}
+
+.product-title{
+    display: block;
+    padding-bottom:0.4rem;
+    color: rgb(132, 131, 130);
+}
+.search {
+    width: 40rem;
+}
+
+.card {
+    font-family: 'Rajdhani', sans-serif;
+    height: 25rem;
+    border-radius: 1px;
+    box-shadow: 0.3px 0.3px 5px lightblue;
+    
+    
+    
+}
+
+.card .card-title{
+    color : rgb(198, 186, 19)
+}
+.card img {
+    height: 13rem;
+}
+.card p{
+    margin-bottom:0.2em;
+    min-height: 3rem;
+
+}
+
+.product-row{
+    margin : 1em 0;
+}
+.product-row .col-3{
+    padding: 1rem;
+}
+
+.product-row .last-prd-col{
+  padding:  1rem 0 1rem 1.3rem;
+}
+.product-row .first-prd-col{
+    padding: 1rem 1.3rem 1rem 0;
+   }
+
